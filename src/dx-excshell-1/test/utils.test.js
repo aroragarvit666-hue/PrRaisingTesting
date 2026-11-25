@@ -1,6 +1,7 @@
 /* 
 * <license header>
 * Sample File Changes.
+* Another Conflicting Changes.
 */
 
 const utils = require('./../actions/utils.js')
