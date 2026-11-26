@@ -6,6 +6,12 @@
 html,
 body {
   margin: 0;
+  background-color: #b7e4c7;
+}
+
+/** Green app background (overrides Spectrum Provider default) **/
+.App-background {
+  background-color: #b7e4c7;
 }
 
 /** Custom Sidebar Styling **/
